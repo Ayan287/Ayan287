@@ -19,6 +19,8 @@ I enjoy building small projects, experimenting with new ideas, and improving my 
 
 Thanks for stopping by! 😊
 
+![Build](https://github.com/USERNAME/REPO/actions/workflows/main.yml/badge.svg)
+
 <!--
 **Ayan287/Ayan287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
