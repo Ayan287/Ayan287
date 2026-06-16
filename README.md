@@ -1,18 +1,18 @@
-## Hi 👋 I'm Ayan
+## Hi I'm Ayan
 
 I'm a passionate learner exploring the world of web development.  
 I enjoy building small projects, experimenting with new ideas, and improving my skills step by step.
 
-### 🔧 What I'm working with
+### What I'm working with
 - HTML, CSS, JavaScript  
 - Basic front-end projects  
 - Learning by building and practicing daily  
 
-### 🌱 Currently learning
+### Currently learning
 - JavaScript concepts  
 - Web development best practices  
 
-### 🚀 Goals
+### Goals
 - Build real-world projects  
 - Improve problem-solving skills  
 - Become a better developer with consistency  
