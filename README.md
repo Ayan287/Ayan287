@@ -17,7 +17,7 @@ I enjoy building small projects, experimenting with new ideas, and improving my 
 - Improve problem-solving skills  
 - Become a better developer with consistency  
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
 
 <!--
 **Ayan287/Ayan287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
